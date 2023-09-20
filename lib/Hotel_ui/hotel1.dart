@@ -4,7 +4,7 @@ import 'hotel3.dart';
 import 'hotel4.dart';
 import 'hotel_bottom.dart';
 
-void main(){
+ void main(){
   runApp(MaterialApp(home: Hotelhome(),));
 }
 
